@@ -1,0 +1,9 @@
+git init
+git add . => added all files
+git status
+
+----------------rest of 4 commands -------------
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/boyroyal4853-rdx/py_prac.git
+git push -u origin main
